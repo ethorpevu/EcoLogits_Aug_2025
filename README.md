@@ -1,11 +1,10 @@
 ---
-title: EcoLogits Calculator
-emoji: 🧮
+title: AI Energy Calculator (August 2025 Archive)
+emoji: ⚡
 colorFrom: green
-colorTo: indigo
+colorTo: blue
 sdk: streamlit
-sdk_version: 1.43.0
+sdk_version: 1.37.0
 app_file: app.py
-pinned: true
-license: cc-by-sa-4.0
+pinned: false
 ---
